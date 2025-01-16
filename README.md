@@ -133,6 +133,6 @@
 ## Breve demostración del juego
 
 
-https://github.com/user-attachments/assets/73928d58-ec45-4778-a884-91fcce1cd4d8
+https://github.com/user-attachments/assets/9e3acbea-6258-4e48-94d4-e6ac684021e5
 
 
