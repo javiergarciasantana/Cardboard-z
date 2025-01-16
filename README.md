@@ -18,13 +18,12 @@ La experiencia inmersiva se logra mediante la detección de planos y la colocaci
 
 1. **Requisitos del Sistema**: 
   - Unity 2020.3 o superior.
-  - Dispositivo Android con soporte para ARCore.
+  - Dispositivo Android con soporte para giroscopio.
   - Google Cardboard.
 
 2. **Instalación**:
   - Clona el repositorio en tu máquina local.
   - Abre el proyecto en Unity.
-  - Asegúrate de tener instalados los paquetes de AR Foundation y ARCore XR Plugin.
   - Conecta tu dispositivo Android y configura la compilación para Android.
 
 3. **Ejecución**:
@@ -49,7 +48,7 @@ La experiencia inmersiva se logra mediante la detección de planos y la colocaci
 
 ## Aspectos destacados de la aplicación
 
-- **Experiencia Inmersiva**: La aplicación ofrece una experiencia de realidad aumentada inmersiva utilizando Google Cardboard y AR Foundation.
+- **Experiencia Inmersiva**: La aplicación ofrece una experiencia de realidad aumentada inmersiva utilizando Google Cardboard.
 - **Interacción Natural**: Los usuarios pueden interactuar con objetos virtuales utilizando un mando y movimientos del dispositivo.
 - **Compatibilidad**: La aplicación es compatible con una amplia gama de dispositivos Android que soportan ARCore.
 
@@ -64,7 +63,7 @@ La experiencia inmersiva se logra mediante la detección de planos y la colocaci
 
 - **Javier Garcia Santana**:
   - Implementación de la detección de planos y colocación y animaciones de objetos virtuales.
-  - Integración de AR Foundation y ARCore XR Plugin.
+  - Integración de Cardboard SDK.
   - Desarrolador de scripts base para el correcto funcionamiento de la aplicación
 
 - **Ibai Heras Rodrigalvarez**:
@@ -97,7 +96,6 @@ La experiencia inmersiva se logra mediante la detección de planos y la colocaci
 
 ### Tareas Desarrolladas en Grupo
 
-- Integración de AR Foundation y ARCore XR Plugin.
 - Implementación de la detección de planos y colocación de objetos virtuales.
 - Pruebas y optimización de la aplicación para asegurar una experiencia de usuario fluida.
 - Revisión y mejora continua del código y la funcionalidad de la aplicación.
