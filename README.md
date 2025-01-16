@@ -9,6 +9,10 @@
 
 - **Roberto Jesus Perez Medina**
   - *Rol*: Desarrollador de Integración y Pruebas
+## Descripción del Juego
+
+  En este juego de realidad aumentada, los jugadores deben sobrevivir en un entorno infestado de zombies utilizando un visor Google Cardboard y un dispositivo Android compatible con ARCore. Los jugadores pueden moverse e interactuar con el entorno utilizando un mando y los sensores de movimiento del dispositivo. El objetivo principal es evitar ser atrapado por los zombies mientras se exploran diferentes áreas. 
+La experiencia inmersiva se logra mediante la detección de planos y la colocación de objetos virtuales en el mundo real, ofreciendo una combinación única de juego y realidad aumentada.
 
 ## Cuestiones importantes para el uso
 
